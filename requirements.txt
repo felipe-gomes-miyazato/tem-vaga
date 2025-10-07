@@ -1,0 +1,10 @@
+typer
+rich
+
+# Web Scraping and Automation
+playwright
+requests
+
+# Database
+SQLAlchemy # A more robust alternative to raw SQLite
+alembic
